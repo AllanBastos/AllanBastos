@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allan Bastos</h1>
-<h3 align="center">I'm studying computer engineering at IFPB - Campina Grande</h3>
+<h3 align="center">I'm studying computer engineering at <a href="https://www.ifpb.edu.br/campinagrande">IFPB - Campina Grande</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allanbastos&label=Profile%20views&color=0e75b6&style=flat" alt="allanbastos" /> </p>
 
