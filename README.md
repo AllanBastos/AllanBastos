@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/allanbastos98" target="blank"> <img align="center" src="imagens/linkedin_icone.png" alt="allanbastos98" height="40" width="40" /></a>
 <a href="https://fb.com/bastosallan98" target="blank"><img align="center" src="imagens/facebook_icone.png" alt="bastosallan98" height="40" width="40" /></a>
 <a href="https://instagram.com/poxa_laan" target="blank"><img align="center" src="imagens/instagram_icone.png" alt="poxa_laan" height="40" width="40" /></a>
-<a href="https://center" target="blank"><img align="left" src="imagens/whatsapp.png" alt="whatsapp" height="40" width="40" /></a>  
+<a href="https://wa.link/ye9kdb" target="blank"><img align="center" src="imagens/whatsapp.png" alt="whatsapp" height="40" width="40" /></a>  
   
 </p>
 
