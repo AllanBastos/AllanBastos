@@ -33,9 +33,8 @@
   <a href="https://maven.apache.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="spring" width="40" height="40"/> </a>
   <a href="https://www.h2database.com/html/main.html" target="_blank"> <img src="https://www.h2database.com/html/images/h2-logo-2.png" alt="spring" width="40" height="40"/> </a>
 </p>
-
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allanbastos&show_icons=true&locale=en&layout=compact" alt="allanbastos" /></p>
+<p aling="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allanbastos&show_icons=true&locale=en&layout=compact" alt="allanbastos" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allanbastos&" alt="allanbastos" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allanbastos&show_icons=true&locale=en" alt="allanbastos" /></p>
  
