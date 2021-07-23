@@ -36,7 +36,6 @@
   <a href="https://www.h2database.com/html/main.html" target="_blank"> <img src="https://www.h2database.com/html/images/h2-logo-2.png" alt="spring" width="40" height="40"/> </a>&nbsp;
 </p>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allanbastos&show_icons=true&locale=en&layout=compact" alt="allanbastos" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allanbastos&" alt="allanbastos" />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allanbastos&show_icons=true&locale=en&layout=compact" alt="allanbastos" /></p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=allanbastos&show_icons=true&locale=en" alt="allanbastos" /></p>
  
